@@ -1,6 +1,6 @@
 ### Hello everyine!👋
 
-I am a recent graduate from Columbia University with a B.A. in Computer Science and minor in Math where I focused on Intelligent Systems. I am currently working at @A2R-lab on an optimization solver for LQR problems in Robotics (you can see some of my work here https://github.com/A2R-Lab/Block-Factorization and https://github.com/A2R-Lab/GLASS). I am also interested in Computer Vision and other AI applications. I look forward to doing more research on how to improve different intelligence systems and find ways to apply my knowledge of Math and Comp-Sci to real world problems. Don't hesitate to reach out with any ideas or projects!
+I am a recent graduate from Columbia University with a B.A. in Computer Science (Intelligent Systems track) and a minor in Math. I am currently working at @A2R-lab on an optimization solver for LQR problems in Robotics (you can see some of my work here https://github.com/A2R-Lab/Block-Factorization and https://github.com/A2R-Lab/GLASS). I am also interested in Computer Vision and other AI applications. I look forward to doing more research on how to improve different intelligence systems and find ways to apply my knowledge of Math and Comp-Sci to real world problems. Don't hesitate to reach out with any ideas or projects!
 <!--
 **yb2462/yb2462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
