@@ -6,7 +6,7 @@ I am a recent graduate from Columbia University with a B.A. in Computer Science 
 ## 📚 Projects
 
 ### 💻 C++
-- **Project Name**: [Gesture Recognition Library]((https://github.com/yb2462/Gesture-Recognition))
+- **Project Name**: [Gesture Recognition Library](https://github.com/yb2462/Gesture-Recognition)
   - **Description**: Gesture Recognition library is written for C++ that allows users to effortlessly create models capable of recognizing gestures in images, live video streams, or recordings. 
   - **Technologies**: C++, OpenCV, STL, Google API, Server Architecture
   
