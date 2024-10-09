@@ -3,7 +3,7 @@
 I am a recent graduate from Columbia University with a B.A. in Computer Science (Intelligent Systems track) and a minor in Math. I am currently working at [A2R-lab](https://a2r-lab.org/) on an optimization solver for LQR problems in Robotics. I am also interested in Computer Vision and other AI applications. I look forward to doing more research on improving different intelligence systems and finding ways to apply my knowledge of Math and Comp-Sci to real-world problems. Don't hesitate to reach out with any ideas or projects!
 
 
-## 📚 Projects
+## 📚 Projects Highlights
 
 ### 💻 C++
 - **Project Name**: [Gesture Recognition Library](https://github.com/yb2462/Gesture-Recognition)
