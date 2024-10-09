@@ -1,6 +1,6 @@
 ### Hello everyone!👋
 
-I am a recent graduate from Columbia University with a B.A. in Computer Science (Intelligent Systems track) and a minor in Math. I am currently working at [A2R-lab](https://a2r-lab.org/) on an optimization solver for LQR problems in Robotics (you can see some of my work here https://github.com/A2R-Lab/Block-Factorization and https://github.com/A2R-Lab/GLASS). I am also interested in Computer Vision and other AI applications. I look forward to doing more research on improving different intelligence systems and finding ways to apply my knowledge of Math and Comp-Sci to real-world problems. Don't hesitate to reach out with any ideas or projects!
+I am a recent graduate from Columbia University with a B.A. in Computer Science (Intelligent Systems track) and a minor in Math. I am currently working at [A2R-lab](https://a2r-lab.org/) on an optimization solver for LQR problems in Robotics. I am also interested in Computer Vision and other AI applications. I look forward to doing more research on improving different intelligence systems and finding ways to apply my knowledge of Math and Comp-Sci to real-world problems. Don't hesitate to reach out with any ideas or projects!
 
 
 ## 📚 Projects
@@ -9,9 +9,9 @@ I am a recent graduate from Columbia University with a B.A. in Computer Science 
 - **Project Name**: [Gesture Recognition Library]((https://github.com/yb2462/Gesture-Recognition))
   - **Description**: Gesture Recognition library is written for C++ that allows users to effortlessly create models capable of recognizing gestures in images, live video streams, or recordings. 
   - **Technologies**: C++, OpenCV, STL, Google API, Server Architecture
-  - 
+  
 ### 🚀 CUDA
-- **Project Name**: [BCHOL](https://github.com/A2R-Lab/BCHOL)
+- **Project Name**: [BCHOL-Block Cholesky Solver](https://github.com/A2R-Lab/BCHOL)
   - **Description**: Optimized Linear System Solver for Quadratic Regulator.
   - **Technologies**: CUDA, C++
   - 
