@@ -9,7 +9,6 @@ I am a recent graduate from Columbia University with a B.A. in Computer Science 
 - **Project Name**: [Gesture Recognition Library](https://github.com/yb2462/Gesture-Recognition)
   - **Description**: Gesture Recognition library is written for C++ that allows users to effortlessly create models capable of recognizing gestures in images, live video streams, or recordings. 
   - **Technologies**: C++, OpenCV, STL, Google API, Server Architecture
-  - 
 ### 🐍 Python
 - **Project Name**: [PanoramaApp](https://github.com/yb2462/PanoramaApp/tree/main)
   - **Description**: An app that will create a panorama from your 3 pictures by calculating homography, implementing RANSAC algorithm, and stitching the images.
