@@ -9,6 +9,11 @@ I am a recent graduate from Columbia University with a B.A. in Computer Science 
 - **Project Name**: [Gesture Recognition Library](https://github.com/yb2462/Gesture-Recognition)
   - **Description**: Gesture Recognition library is written for C++ that allows users to effortlessly create models capable of recognizing gestures in images, live video streams, or recordings. 
   - **Technologies**: C++, OpenCV, STL, Google API, Server Architecture
+  - 
+### 🐍 Python
+- **Project Name**: [PanoramaApp](https://github.com/yb2462/PanoramaApp/tree/main)
+  - **Description**: An app that will create a panorama from your 3 pictures by calculating homography, implementing RANSAC algorithm, and stitching the images.
+  - **Technologies**: Python, NumPy, OpenCv(cv2)
   
 ### 🚀 CUDA
 - **Project Name**: [BCHOL-Block Cholesky Solver](https://github.com/A2R-Lab/BCHOL)
@@ -24,9 +29,8 @@ I am a recent graduate from Columbia University with a B.A. in Computer Science 
   - **Description**: This Java Game imitates the online poker game and implements the game flow including the virtual deck, hand, and bets. The project showcases the concepts of Object-Oriented Programming and usage of interfaces and methods.
   - **Technologies**: Java
 
+### 🔭 To see more of my projects in NLP, CV, and other areas shoot me a message and I will share my experience with you!
 
-
-## 📫 Get in Touch
 Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/yana-botvinnik-4a0327213/) or reach out via email at [ybotvinn@barnard.edu](mailto:ybotvinn@barnard.edu).
 
 ---
